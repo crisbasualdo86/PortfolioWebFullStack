@@ -1,32 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
-@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
 * {
-    font-family: 'Varela Round', sans-serif;
-    margin: 0;
-}
-
-body {
-    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 header {
-    height: 400px;
-}
-
-.img-container {
-    background-image: url("src\assets\images\banner.jpg");
-    height: 120%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    z-index: -1;
-}
-
-.img-thumb {
-    width: 300px;
-    height: 300px;
-    margin-left: 25px;
-    border-radius: 50%;
+    height: 320px;
 }

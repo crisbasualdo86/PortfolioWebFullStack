@@ -1,0 +1,21 @@
+.img-thumb {
+    height: 350px;
+    width: 350px;	
+    border-radius: 50% !important;
+}
+
+.about {
+    padding: 260px 100px 100px;
+}
+
+.about h1 {
+    font-size: 46px;
+}
+
+.about p {
+    font-size: 23px;
+}
+
+.perfil {
+    z-index: 0;
+}
